@@ -1,19 +1,20 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Seiten der Standart Docusaurus dokumentation
+
+stadt:
+  label: stadt
+  permalink: /stadt
+  description: zeug was mit der stadt zu tun hat
+
+erfhrungsberichte:
+  label: erfa
+  permalink: /erfa
+  description: erfahrungs berichte von verschieden nutzern
 
 hello:
   label: Hello
   permalink: /hello
-  description: Hello tag description
+  description: start pages
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
