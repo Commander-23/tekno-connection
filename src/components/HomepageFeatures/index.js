@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Guides',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -14,17 +14,16 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Blogs',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        kleine abrisse mit vorschritten bei verschiedene themen z.b mit der Stadt oder andere 'langzeit' themen. jenachdem wie öffentlich man das gestalten möchte
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Docosaurus mit React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
