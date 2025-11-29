@@ -89,9 +89,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guides',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          
+          // Right side
           {
             href: 'https://github.com/Commander-23/tekno-connection',
             label: 'GitHub',
